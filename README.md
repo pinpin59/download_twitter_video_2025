@@ -15,8 +15,8 @@
 ### 📦 Installation
 
 ```bash
-git clone https://github.com/votre-utilisateur/video-downloader-nodejs.git
-cd video-downloader-nodejs
+git clone https://github.com/pinpin59/download_twitter_video_2025.git
+cd download_twitter_video_2025
 npm install
 node download.js "https://your-video-url.com"
 ```
@@ -31,8 +31,8 @@ node download.js "https://your-video-url.com"
 ### 📦 Installation
 
 ```bash
-git clone https://github.com/votre-utilisateur/video-downloader-nodejs.git
-cd video-downloader-nodejs
+git clone https://github.com/pinpin59/download_twitter_video_2025.git
+cd download_twitter_video_2025
 npm install
 node download.js "https://your-video-url.com"
 ```
