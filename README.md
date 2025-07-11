@@ -1,7 +1,7 @@
 # 📥 Video Downloader (Node.js)
 
-> 🇫🇷 Script simple en Node.js pour télécharger une vidéo depuis une URL (Twitter/X, etc.)  
-> 🇬🇧 Simple Node.js script to download a video from a given URL (Twitter/X, etc.)
+> 🇫🇷 Script simple en Node.js pour télécharger une vidéo depuis une URL (Twitter/X)  
+> 🇬🇧 Simple Node.js script to download a video from a given URL (Twitter/X)
 
 ---
 
